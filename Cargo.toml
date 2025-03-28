@@ -1,0 +1,9 @@
+[package]
+name = "rustsessions"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+alacritty_terminal="0.25.0"
+
+
