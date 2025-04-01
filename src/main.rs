@@ -2,6 +2,20 @@ use std::thread;
 
 
 
+// struct Data{
+//     
+// }
+// 
+// impl Clone for Data {
+//     fn clone(&self) -> Self {
+//         todo!()
+//     }
+// }
+// 
+// impl Copy for Data{
+//     
+// }
+
 // mutability ,ownership and drop semantics ,lifetimes
 fn main() {
 
